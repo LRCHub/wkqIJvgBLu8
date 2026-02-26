@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "さんさーら！",
+  "base_artist": "ARuFa",
+  "createdAt": "2026-02-26T04:20:02.121304Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さんさーら!",
+      "artist": "ARuFa",
+      "has_synced": false,
+      "path": "select/pl_01_さんさーら!_ARuFa.txt"
+    }
+  ]
+}
